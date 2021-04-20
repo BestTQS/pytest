@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "_pytest.fixtures.FixtureLookupError: ('myfixture', <FixtureRequest for <Function test_two>>)",
+      "children" : [ {
+        "name" : "test_two",
+        "uid" : "3e49c5a7bcae96d0",
+        "parentUid" : "3a8c058ef2128a7ea582bb8d61ca56f0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1618916107803,
+          "stop" : 1618916107803,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3a8c058ef2128a7ea582bb8d61ca56f0"
+    }, {
+      "name" : "TypeError: test_add_02() takes 0 positional arguments but 1 was given",
+      "children" : [ {
+        "name" : "test_add_02",
+        "uid" : "1550182377c5e624",
+        "parentUid" : "de51441d00b2c30d6b6363d710f5ae80",
+        "status" : "broken",
+        "time" : {
+          "start" : 1618916107828,
+          "stop" : 1618916107828,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "de51441d00b2c30d6b6363d710f5ae80"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
