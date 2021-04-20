@@ -1,0 +1,59 @@
+{
+  "uid" : "76bb85e261c5f4ad",
+  "name" : "test_add[minus]",
+  "fullName" : "test_two#test_add",
+  "historyId" : "4f3bfae3cd520ae73d68ed82b663fc6d",
+  "time" : {
+    "start" : 1618916108146,
+    "stop" : 1618916108146,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_two"
+  }, {
+    "name" : "host",
+    "value" : "Tan"
+  }, {
+    "name" : "thread",
+    "value" : "1092-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_two"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "-1"
+  }, {
+    "name" : "b",
+    "value" : "-2"
+  }, {
+    "name" : "expected",
+    "value" : "-3"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "76bb85e261c5f4ad.json",
+  "parameterValues" : [ "-1", "-2", "-3" ]
+}

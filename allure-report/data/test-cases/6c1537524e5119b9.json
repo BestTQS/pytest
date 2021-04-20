@@ -1,0 +1,59 @@
+{
+  "uid" : "6c1537524e5119b9",
+  "name" : "test_add[minus]",
+  "fullName" : "test_param_in-file_2#test_add",
+  "historyId" : "e7f1789c13a6a77504f09bac2617d611",
+  "time" : {
+    "start" : 1618916108082,
+    "stop" : 1618916108082,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_param_in-file_2"
+  }, {
+    "name" : "host",
+    "value" : "Tan"
+  }, {
+    "name" : "thread",
+    "value" : "1092-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_param_in-file_2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "-1"
+  }, {
+    "name" : "b",
+    "value" : "-2"
+  }, {
+    "name" : "expected",
+    "value" : "-3"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c1537524e5119b9.json",
+  "parameterValues" : [ "-1", "-2", "-3" ]
+}

@@ -1,0 +1,72 @@
+{
+  "uid" : "44b915a2e8788e5e",
+  "name" : "test_demo",
+  "fullName" : "test_mark.Test_Demo2#test_demo",
+  "historyId" : "b97cb33212f302cd87285ffdb79be84e",
+  "time" : {
+    "start" : 1618916107820,
+    "stop" : 1618916107821,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d679b7ef327733e5",
+      "name" : "stdout",
+      "source" : "d679b7ef327733e5.txt",
+      "type" : "text/plain",
+      "size" : 23
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "demo"
+  }, {
+    "name" : "suite",
+    "value" : "test_mark"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Demo2"
+  }, {
+    "name" : "host",
+    "value" : "Tan"
+  }, {
+    "name" : "thread",
+    "value" : "1092-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_mark"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "demo" ]
+  },
+  "source" : "44b915a2e8788e5e.json",
+  "parameterValues" : [ ]
+}
